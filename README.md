@@ -9,7 +9,7 @@ I'm a full-stack web wizard, orchestrating digital symphonies with Next.js and E
 *   🌍  I'm based in Sylhet, Bangladesh
 *   🖥️  See my portfolio at [Jony](http://github.com/jitbjony)
 *   ✉️  You can contact me at [jonybhattacharjee886@gmail.com](mailto:jonybhattacharjee886@gmail.com)
-*   🚀  I'm currently working on [Avant garde](http://github.com/jonyBhatt/Avant_garde)
+*   🚀  I'm currently working on [Avant garde](https://github.com/jonyBhatt/Avant-Garde)
 *   🧠  I'm learning Nextjs
 *   ⚡  And a Gamer### Skills 
 <p align="left">
